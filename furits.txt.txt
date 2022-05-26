@@ -2,3 +2,6 @@ apple
 banana
 peach
 watermelon
+orange
+blueberry
+pineapple
